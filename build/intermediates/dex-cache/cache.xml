@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/surbhibhatnagar/.gradle/caches/modules-2/files-2.1/commons-codec/commons-codec/1.2/397f4731a9f9b6eb1907e224911c77ea3aa27a8b/commons-codec-1.2.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="397f4731a9f9b6eb1907e224911c77ea3aa27a8b">
+        <dex dex="/Users/surbhibhatnagar/Desktop/mobile_advertising/frigus02-car-report-318a5196b770/app/build/intermediates/pre-dexed/foss/debug/commons-codec-1.2_29ba72a03cc4e6cc811b845550f5164b88f8bfd5.jar" />
+    </item>
+    <item
+        jar="/Users/surbhibhatnagar/Desktop/mobile_advertising/frigus02-car-report-318a5196b770/app/build/intermediates/exploded-aar/com.github.clans/fab/1.6.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="ca504182198db4a0f81779ca3fe391374c8cb66a">
+        <dex dex="/Users/surbhibhatnagar/Desktop/mobile_advertising/frigus02-car-report-318a5196b770/app/build/intermediates/pre-dexed/foss/debug/com.github.clans-fab-1.6.1_5c3989927584313384701c2ecb60f1a8b2c9abdc.jar" />
+    </item>
+    <item
+        jar="/Users/surbhibhatnagar/.gradle/caches/modules-2/files-2.1/com.dropbox.core/dropbox-core-sdk/2.0-beta-2/79c603fa58da6124547151931938fe0f26c34741/dropbox-core-sdk-2.0-beta-2.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="79c603fa58da6124547151931938fe0f26c34741">
+        <dex dex="/Users/surbhibhatnagar/Desktop/mobile_advertising/frigus02-car-report-318a5196b770/app/build/intermediates/pre-dexed/foss/debug/dropbox-core-sdk-2.0-beta-2_a4f67395e876d980a881f636793e17f0039ddf1f.jar" />
+    </item>
+    <item
+        jar="/Users/surbhibhatnagar/Desktop/mobile_advertising/frigus02-car-report-318a5196b770/app/build/intermediates/exploded-aar/com.android.support/design/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="379471b2bd17d9737c050345c08e8c7d16589784">
+        <dex dex="/Users/surbhibhatnagar/Desktop/mobile_advertising/frigus02-car-report-318a5196b770/app/build/intermediates/pre-dexed/foss/debug/com.android.support-design-23.1.1_8d89db790fa2835db4eced913e12447f9c6896ac.jar" />
+    </item>
+    <item
+        jar="/Users/surbhibhatnagar/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.1.1/support-annotations-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="/Users/surbhibhatnagar/Desktop/mobile_advertising/frigus02-car-report-318a5196b770/app/build/intermediates/pre-dexed/foss/debug/support-annotations-23.1.1_a8a7e160912cf0e5794b0779479a99074cdb83a2.jar" />
+    </item>
+    <item
+        jar="/Users/surbhibhatnagar/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-core/2.6.5/334369d7eff497f358b248c171dac0dd62c68f67/jackson-core-2.6.5.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="334369d7eff497f358b248c171dac0dd62c68f67">
+        <dex dex="/Users/surbhibhatnagar/Desktop/mobile_advertising/frigus02-car-report-318a5196b770/app/build/intermediates/pre-dexed/foss/debug/jackson-core-2.6.5_c14458f607eb76173c71b2df012562a1fa61a0f5.jar" />
+    </item>
+    <item
+        jar="/Users/surbhibhatnagar/Desktop/mobile_advertising/frigus02-car-report-318a5196b770/app/build/intermediates/exploded-aar/com.larswerkman/HoloColorPicker/1.4/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="5d5a825cbf0f67237377034c2c4edf9ba7e60fbe">
+        <dex dex="/Users/surbhibhatnagar/Desktop/mobile_advertising/frigus02-car-report-318a5196b770/app/build/intermediates/pre-dexed/foss/debug/com.larswerkman-HoloColorPicker-1.4_e5f13b2e4a7788ac59baf87a3ed42ab78c4f9ff3.jar" />
+    </item>
+    <item
+        jar="/Users/surbhibhatnagar/Desktop/mobile_advertising/frigus02-car-report-318a5196b770/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="/Users/surbhibhatnagar/Desktop/mobile_advertising/frigus02-car-report-318a5196b770/app/build/intermediates/pre-dexed/foss/debug/com.android.support-support-v4-23.1.1_8c25c1f784f149d19cd0952709245dfc817ff575.jar" />
+    </item>
+    <item
+        jar="/Users/surbhibhatnagar/Desktop/mobile_advertising/frigus02-car-report-318a5196b770/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="5e412e954a24c5310a459c09870e4e2081aceb03">
+        <dex dex="/Users/surbhibhatnagar/Desktop/mobile_advertising/frigus02-car-report-318a5196b770/app/build/intermediates/pre-dexed/foss/debug/com.android.support-cardview-v7-23.1.1_6768ebb08b4d8bdac7a7232ed1d4efdb23c39737.jar" />
+    </item>
+    <item
+        jar="/Users/surbhibhatnagar/Desktop/mobile_advertising/frigus02-car-report-318a5196b770/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="/Users/surbhibhatnagar/Desktop/mobile_advertising/frigus02-car-report-318a5196b770/app/build/intermediates/pre-dexed/foss/debug/com.android.support-appcompat-v7-23.1.1_31645d852e14e4cc06421193b13845ebf2ac5030.jar" />
+    </item>
+    <item
+        jar="/Users/surbhibhatnagar/.gradle/caches/modules-2/files-2.1/org.apache.jackrabbit/jackrabbit-webdav/2.10.1/ba35a4637e985d1b6dcdca7de75a22b3a0f52d13/jackrabbit-webdav-2.10.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="ba35a4637e985d1b6dcdca7de75a22b3a0f52d13">
+        <dex dex="/Users/surbhibhatnagar/Desktop/mobile_advertising/frigus02-car-report-318a5196b770/app/build/intermediates/pre-dexed/foss/debug/jackrabbit-webdav-2.10.1_8e497664dd3e3f1e5ecc0868c2b640af26f819bc.jar" />
+    </item>
+    <item
+        jar="/Users/surbhibhatnagar/Desktop/mobile_advertising/frigus02-car-report-318a5196b770/app/build/intermediates/exploded-aar/com.github.lecho/hellocharts-library/1.5.9/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="5b0385119e5d6b90404ce2c06a3d30b037d1baea">
+        <dex dex="/Users/surbhibhatnagar/Desktop/mobile_advertising/frigus02-car-report-318a5196b770/app/build/intermediates/pre-dexed/foss/debug/com.github.lecho-hellocharts-library-1.5.9_9a6a51ced718e6ffb9de1dd22cc21abaea97798a.jar" />
+    </item>
+    <item
+        jar="/Users/surbhibhatnagar/.gradle/caches/modules-2/files-2.1/joda-time/joda-time/2.9/db8dd9d75280b1d1d9587ed0d39b4108d0e655e9/joda-time-2.9-no-tzdb.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="db8dd9d75280b1d1d9587ed0d39b4108d0e655e9">
+        <dex dex="/Users/surbhibhatnagar/Desktop/mobile_advertising/frigus02-car-report-318a5196b770/app/build/intermediates/pre-dexed/foss/debug/joda-time-2.9-no-tzdb_e303a7e508b05f4e7368fe9d862daf0782ebdf7c.jar" />
+    </item>
+    <item
+        jar="/Users/surbhibhatnagar/Desktop/mobile_advertising/frigus02-car-report-318a5196b770/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="dc6c5f4bb34315c98476469344d481c8e3ca90ad">
+        <dex dex="/Users/surbhibhatnagar/Desktop/mobile_advertising/frigus02-car-report-318a5196b770/app/build/intermediates/pre-dexed/foss/debug/net.danlew-android.joda-2.9.0_5231e9cb73e5e1dbf662015dfe5407006a882a9d.jar" />
+    </item>
+    <item
+        jar="/Users/surbhibhatnagar/.gradle/caches/modules-2/files-2.1/commons-httpclient/commons-httpclient/3.1/964cd74171f427720480efdec40a7c7f6e58426a/commons-httpclient-3.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="964cd74171f427720480efdec40a7c7f6e58426a">
+        <dex dex="/Users/surbhibhatnagar/Desktop/mobile_advertising/frigus02-car-report-318a5196b770/app/build/intermediates/pre-dexed/foss/debug/commons-httpclient-3.1_38275033dc2980c98bd430122b02bf9ffb623dd7.jar" />
+    </item>
+    <item
+        jar="/Users/surbhibhatnagar/Desktop/mobile_advertising/frigus02-car-report-318a5196b770/app/build/intermediates/exploded-aar/com.bignerdranch.android/recyclerview-multiselect/0.2/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8a90606ee73178bb9b1a336dc36ae3ec25ad33ea">
+        <dex dex="/Users/surbhibhatnagar/Desktop/mobile_advertising/frigus02-car-report-318a5196b770/app/build/intermediates/pre-dexed/foss/debug/com.bignerdranch.android-recyclerview-multiselect-0.2_20e0790be0e0f9d293cf686e1999e1c771f00942.jar" />
+    </item>
+    <item
+        jar="/Users/surbhibhatnagar/.gradle/caches/modules-2/files-2.1/org.slf4j/jcl-over-slf4j/1.7.4/b7c1efe9a78b315b6be624e6f6f944788c6be6c0/jcl-over-slf4j-1.7.4.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="b7c1efe9a78b315b6be624e6f6f944788c6be6c0">
+        <dex dex="/Users/surbhibhatnagar/Desktop/mobile_advertising/frigus02-car-report-318a5196b770/app/build/intermediates/pre-dexed/foss/debug/jcl-over-slf4j-1.7.4_c0f1d9a6b41df2027d5e957675ab368805dd2af2.jar" />
+    </item>
+    <item
+        jar="/Users/surbhibhatnagar/Desktop/mobile_advertising/frigus02-car-report-318a5196b770/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/libs/internal_impl-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="/Users/surbhibhatnagar/Desktop/mobile_advertising/frigus02-car-report-318a5196b770/app/build/intermediates/pre-dexed/foss/debug/internal_impl-23.1.1_a9677b6bfc60a44c9dfcd098d5d3c97c6cd870bb.jar" />
+    </item>
+    <item
+        jar="/Users/surbhibhatnagar/.gradle/caches/modules-2/files-2.1/org.slf4j/slf4j-api/1.7.4/b080da16832c1240acbf3f59f338a8e713705c0c/slf4j-api-1.7.4.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="b080da16832c1240acbf3f59f338a8e713705c0c">
+        <dex dex="/Users/surbhibhatnagar/Desktop/mobile_advertising/frigus02-car-report-318a5196b770/app/build/intermediates/pre-dexed/foss/debug/slf4j-api-1.7.4_343a394096ee26da7006c0419a599c9854e7ccf1.jar" />
+    </item>
+    <item
+        jar="/Users/surbhibhatnagar/Desktop/mobile_advertising/frigus02-car-report-318a5196b770/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="09c5e804bc67fc0580360043dff067df574a60d4">
+        <dex dex="/Users/surbhibhatnagar/Desktop/mobile_advertising/frigus02-car-report-318a5196b770/app/build/intermediates/pre-dexed/foss/debug/com.android.support-recyclerview-v7-23.1.1_10e62e29f092ac1958c5eb76b63081f621a18b5f.jar" />
+    </item>
+
+</items>
